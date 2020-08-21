@@ -1,0 +1,18 @@
+atomicwrites==1.4.0; sys_platform == "win32"
+attrs==20.1.0
+click==7.1.2
+colorama==0.4.3; sys_platform == "win32"
+flask==1.1.2
+iniconfig==1.0.1
+itsdangerous==1.1.0
+jinja2==2.11.2
+markupsafe==1.1.1
+more-itertools==8.4.0
+packaging==20.4
+pluggy==0.13.1
+py==1.9.0
+pyparsing==2.4.7
+pytest==6.0.1
+six==1.15.0
+toml==0.10.1
+werkzeug==1.0.1
